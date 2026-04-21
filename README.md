@@ -1,5 +1,6 @@
 # IT Support Copilot Agent
 
+
 ## Overview
 This project is an AI-powered IT Support Assistant built using Microsoft Copilot Studio.
 The agent helps users troubleshoot common IT issues, provides step-by-step solutions, and automates ticket classification for faster support resolution.
@@ -105,6 +106,20 @@ The agent uses SOP documents including:
 - Printer setup guide
 - Outlook configuration guide
 - Device compliance procedures
+
+---
+
+## Project Presentation
+
+This presentation explains my IT Support Copilot Agent project.
+It shows what the agent does, how it works, and how it helps users fix common IT problems.
+
+The presentation also shows examples like:
+- Internet issues
+- Slow computer
+- Email problems
+- Ticket classification
+- View Presentation https://tinyurl.com/Copilot-Agent-Presentation
 
 ---
 
